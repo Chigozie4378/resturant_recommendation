@@ -1,0 +1,10 @@
+pip install langchain
+pip install langchain-openai
+pip install langchain-community // needed for other LLMs
+pip install langchain-huggingface
+pip install langchain-anthropic  
+pip install langchain-cohere 
+pip install langchainhub
+pip install streamlit
+pip install numexpr
+pip install google-search-results
